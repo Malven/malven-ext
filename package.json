@@ -2,7 +2,7 @@
   "name": "malven-ext",
   "displayName": "malven-ext",
   "description": "My personal extensions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.37.0"
