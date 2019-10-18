@@ -2,7 +2,7 @@
   "name": "malven-ext",
   "displayName": "malven-ext",
   "description": "My personal extensions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.37.0"
@@ -19,7 +19,6 @@
     "aaron-bond.better-comments",
     "akamud.vscode-theme-onedark",
     "andys8.jest-snippets",
-    "angryobject.react-pure-to-class-vscode",
     "arcticicestudio.nord-visual-studio-code",
     "auchenberg.vscode-browser-preview",
     "burkeholland.react-food-truck",
@@ -41,7 +40,6 @@
     "fabiospampinato.vscode-terminals",
     "formulahendry.auto-rename-tag",
     "Fudge.auto-using",
-    "gottfired.css2react",
     "IBM.output-colorizer",
     "ionutvmi.path-autocomplete",
     "jasonnutter.search-node-modules",
@@ -57,7 +55,6 @@
     "ms-vscode.vscode-typescript-tslint-plugin",
     "ms-vsliveshare.vsliveshare",
     "msjsdiag.debugger-for-chrome",
-    "octref.vetur",
     "Orta.vscode-jest",
     "P-de-Jong.vscode-html-scss",
     "pflannery.vscode-versionlens",
